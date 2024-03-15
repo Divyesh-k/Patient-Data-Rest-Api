@@ -17,4 +17,4 @@ Patient Data Rest API is a tool designed to facilitate the management of patient
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/your-username/Patient-Data-Rest-Api.git
+   git clone https://github.com/Divyesh-k/Patient-Data-Rest-Api.git
